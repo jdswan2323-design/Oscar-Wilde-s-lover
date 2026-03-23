@@ -1,0 +1,55 @@
+h1 {
+    font-size: 100 px;
+   margin: auto;
+   background-color: white;
+    text-align: center;
+    .center-container
+    { display:flex;
+    align-items: center;
+  gap: 20 px}
+  .text-content {
+    
+  }
+}
+h1 { 
+    color:darkgreen
+
+}
+h1 {
+    text-align: center;
+}
+.center-container {
+  text-align: center;
+  height: 300 px;
+  width: 300 px:
+}
+h2 { color:darkgreen
+}
+h3 { color:darkgreen
+}
+.works { color:darkgreen }
+a {
+  color: green;
+}
+body {
+    background-color: grey;
+   }
+   
+ 
+  img {
+    width: 300px;
+    border-color: green;
+    border-width: 10 px;
+    border-style: solid;
+    box-sizing: border-box;
+    outline: 10 px solid lightblue;
+  }
+.text-with-border {
+  border: 100px solid green;
+  width: 10 px;
+  border-width: 500 px;
+  margin: auto;
+  box-sizing: border-box;
+  outline: 10 px solid lightblue;
+}
+
